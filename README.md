@@ -1,8 +1,7 @@
 ## 📌1.Project Overview
 
 This project aims to predict whether a customer is likely to purchase a holiday package based on demographic and behavioral attributes. By analyzing customer data, we can help travel companies optimize their marketing strategies and target potential buyers more effectively.
-
-The dataset comes from Kaggle
+The dataset comes from Kaggle.
 
 ---
 
@@ -32,6 +31,6 @@ The dataset is moderately imbalanced, with fewer positive cases (ProdTaken = 1).
 
 - **Best models**: Random Forest, KNN, XGBoost
 
-**ROC AUC**： ~0.94–0.95 (depending on tuned parameters)
+-**ROC AUC**: ~0.94–0.95 (depending on tuned parameters)
 
 Confusion matrices and ROC curves are included in results
