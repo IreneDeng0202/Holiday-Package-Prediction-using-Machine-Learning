@@ -32,6 +32,6 @@ The dataset is moderately imbalanced, with fewer positive cases (ProdTaken = 1).
 
 - **Best models**: Random Forest, KNN, XGBoost
 
--**ROC AUC**: ~0.94–0.95 (depending on tuned parameters)
+- **ROC AUC**: ~0.94–0.95 (depending on tuned parameters)
 
 Confusion matrices and ROC curves are included in results
