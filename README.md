@@ -1,6 +1,7 @@
 ## 📌1.Project Overview
 
 This project aims to predict whether a customer is likely to purchase a holiday package based on demographic and behavioral attributes. By analyzing customer data, we can help travel companies optimize their marketing strategies and target potential buyers more effectively.
+
 The dataset comes from Kaggle.
 
 ---
